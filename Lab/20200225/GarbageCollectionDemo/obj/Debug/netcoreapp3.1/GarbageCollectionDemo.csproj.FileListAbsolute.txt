@@ -1,0 +1,11 @@
+C:\Users\Five\MSSA\Lab\20200225\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.exe
+C:\Users\Five\MSSA\Lab\20200225\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.deps.json
+C:\Users\Five\MSSA\Lab\20200225\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.runtimeconfig.json
+C:\Users\Five\MSSA\Lab\20200225\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.runtimeconfig.dev.json
+C:\Users\Five\MSSA\Lab\20200225\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.dll
+C:\Users\Five\MSSA\Lab\20200225\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.pdb
+C:\Users\Five\MSSA\Lab\20200225\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Lab\20200225\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.AssemblyInfoInputs.cache
+C:\Users\Five\MSSA\Lab\20200225\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.AssemblyInfo.cs
+C:\Users\Five\MSSA\Lab\20200225\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.dll
+C:\Users\Five\MSSA\Lab\20200225\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.pdb

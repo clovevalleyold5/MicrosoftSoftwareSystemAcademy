@@ -1,0 +1,6 @@
+C:\Users\Five\MSSA\Lab\20200220\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe.config
+C:\Users\Five\MSSA\Lab\20200220\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe
+C:\Users\Five\MSSA\Lab\20200220\ParamsArray\ParamsArray\bin\Debug\ParamsArray.pdb
+C:\Users\Five\MSSA\Lab\20200220\ParamsArray\ParamsArray\obj\Debug\ParamsArray.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Lab\20200220\ParamsArray\ParamsArray\obj\Debug\ParamsArray.exe
+C:\Users\Five\MSSA\Lab\20200220\ParamsArray\ParamsArray\obj\Debug\ParamsArray.pdb

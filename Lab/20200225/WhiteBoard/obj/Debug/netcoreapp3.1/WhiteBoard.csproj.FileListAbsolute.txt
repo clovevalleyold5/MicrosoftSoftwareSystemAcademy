@@ -1,0 +1,11 @@
+C:\Users\Five\MSSA\Lab\20200225\WhiteBoard\bin\Debug\netcoreapp3.1\WhiteBoard.exe
+C:\Users\Five\MSSA\Lab\20200225\WhiteBoard\bin\Debug\netcoreapp3.1\WhiteBoard.deps.json
+C:\Users\Five\MSSA\Lab\20200225\WhiteBoard\bin\Debug\netcoreapp3.1\WhiteBoard.runtimeconfig.json
+C:\Users\Five\MSSA\Lab\20200225\WhiteBoard\bin\Debug\netcoreapp3.1\WhiteBoard.runtimeconfig.dev.json
+C:\Users\Five\MSSA\Lab\20200225\WhiteBoard\bin\Debug\netcoreapp3.1\WhiteBoard.dll
+C:\Users\Five\MSSA\Lab\20200225\WhiteBoard\bin\Debug\netcoreapp3.1\WhiteBoard.pdb
+C:\Users\Five\MSSA\Lab\20200225\WhiteBoard\obj\Debug\netcoreapp3.1\WhiteBoard.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Lab\20200225\WhiteBoard\obj\Debug\netcoreapp3.1\WhiteBoard.AssemblyInfoInputs.cache
+C:\Users\Five\MSSA\Lab\20200225\WhiteBoard\obj\Debug\netcoreapp3.1\WhiteBoard.AssemblyInfo.cs
+C:\Users\Five\MSSA\Lab\20200225\WhiteBoard\obj\Debug\netcoreapp3.1\WhiteBoard.dll
+C:\Users\Five\MSSA\Lab\20200225\WhiteBoard\obj\Debug\netcoreapp3.1\WhiteBoard.pdb

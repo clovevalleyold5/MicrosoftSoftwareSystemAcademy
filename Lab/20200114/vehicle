@@ -1,0 +1,23 @@
+.echo on
+.headers on
+
+-- Name: Kaiyuan Wang
+-- Script: vehicle.sql
+-- Date: January 15, 2020
+
+drop table if exists vehicle;
+create table vehicle (
+	id integer primary key,
+	brand text,
+	make text,
+	type text,
+	year integer
+);
+ 
+insert into vehicle values (1, 'Audi', 'Q3', 'suv', 2018);
+insert into vehicle values (2, 'Buick', 'Regal', 'sedan', 2003);
+insert into vehicle values (3, 'Cadillac', 'Escalade', 'suv', 2017);
+insert into vehicle values (4, 'Volkswagen', 'GTI', 'sedan', 2011);
+
+select * from vehicle;
+select * from vehicle where year > 2010 group by id;

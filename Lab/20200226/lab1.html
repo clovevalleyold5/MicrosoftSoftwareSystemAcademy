@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Title</title>
+	</head>
+	<body>
+		<a name = "top" id = "top"/>
+		<h1>Content</h1>
+			<a href = "#list">Go To List</a><br/>
+			<a href = "#table">Go To Tables</a><br/>
+			<a href = "#form">Go To Forms</a><br/>
+			<a href = "http://google.com" target = "new">Google</a><br/>
+			<a href = "http://bing.com" target = "new">Bing</a><br/>
+		<hr/>
+		<h1>1 Level Header</h1>
+		<h2>2 Level Header</h2>
+		<h3>3 Level Header</h3>
+		<h4>4 Level Header</h4>
+		<h5>5 Level Header</h5>
+		<h6>6 Level Header</h6>
+		
+		<h2>2 Level Header</h2>
+		<p>Paragraph1</p>
+		<hr/>
+		<h2>2 Level Header</h2>
+		<p>Paragraph2</p>
+		
+		<a name = "list" id = "list"/>
+		<h3>List</h3>
+		<ol>
+			<li>A</li>
+			<li>B</li>
+			<li>C</li>
+		</ol>
+		
+		<h3>Unordered List</h3>
+		<ul>
+			<li>aa</li>
+			<li>bb</li>
+			<li>cc</li>
+		</ul>
+
+		<h3>Dictionary List</h3>
+		<dl>
+			<dt>D1</dt>
+			<dd>d1</dd>
+			<dt>D2</dt>
+			<dd>d2</dd>
+			<dt>D3</dt>
+			<dd>d3</dd>
+			<dt>D4</dt>
+			<dd>d4</dd>
+		</dl>
+		<a href = "#top">Go To Top</a>
+		
+		<a name = "table" id = "table"/>
+		<h3>Tables</h3>
+		<table rules = "all">
+			<tr>
+				<th>header1</th>
+				<th>header2</th>
+				<th>header3</th>
+			</tr>
+			<tr>
+				<td>data1</td>
+				<td>data2</td>
+				<td>data3</td>
+			</tr>
+			<tr>
+				<td>cell1</td>
+				<td>cell2</td>
+				<td>cell3</td>
+			</tr>
+		</table>
+		
+		<table rules = "all">
+		<caption>Music</caption>
+			<tr>
+				<th>Title</th>
+				<th>Artist</th>
+				<th>Album</th>
+				<th>Release Date</th>
+			</tr>
+			<tr>
+				<th colspan = "4">R&amp;B</th>
+			</tr>
+			<tr>
+				<td>Confession</td>
+				<td>Usher</td>
+				<td>Confessions</td>
+				<td>2004</td>
+			</tr>
+			<tr>
+				<td>Sweet Momma</td>
+				<td>Bob Marley</td>
+				<td>My Mommy</td>
+				<td>2020</td>
+			</tr>
+			<tr>
+				<th colspan = "4">Country</th>
+			</tr>
+			<tr>
+				<td>Hound Dog</td>
+				<td>Elvis Pressley</td>
+				<td></td>
+				<td>1956</td>
+			</tr>
+			<tr>
+				<td>Speechiless</td>
+				<td>Dan&amp;Shay</td>
+				<td>My Environment</td>
+				<td>2018</td>
+			</tr>
+		</table>
+		<a href = "#top">Go To Top</a>
+		
+		<a name = "form" id = "form"/>
+		<h2>Forms</h2>
+		<form>
+			username: <input type = "text" name = "username"/><br/>
+			password: <input type = "password" name = "passwork"/><br/>
+			<br/>
+			Submit: <input type  = "submit" value = "submit"/><br/>
+		</form>
+		
+		<h2>Pizza</h2>
+		<form>
+			<input type = "checkbox" name = "pizza" value = "something1"/>something1
+			<input type = "checkbox" name = "pizza" value = "something2"/>something2
+			<input type = "checkbox" name = "pizza" value = "something3"/>something3
+			<br/>
+			<input type = "radio" name = "option" value = "choice1"/>choice1
+			<input type = "radio" name = "option" value = "choice2"/>choice2
+			<input type = "radio" name = "option" value = "choice3"/>choice3
+			<br/>
+			<select name = "pizza" multiple = "multiple"/>
+				<option value = "option1"/>option1
+				<option value = "option2"/>option2
+				<option value = "option3"/>option3
+			<br/>
+			<textarea rows = "5" cols = "50" name = "comments" id = "comments" value = "Enter Here" onfocus = "comments.value = '';"/>Enter Here
+		</form>
+	</body>
+</html>

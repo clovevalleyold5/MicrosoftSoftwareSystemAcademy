@@ -1,0 +1,5 @@
+C:\Users\Five\MSSA\Lab\20200309\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\Five\MSSA\Lab\20200309\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Five\MSSA\Lab\20200309\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Lab\20200309\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\Five\MSSA\Lab\20200309\BinaryTree\obj\Debug\BinaryTree.pdb

@@ -1,0 +1,1 @@
+C:\Users\Five\MSSA\Lab\Hello\Hello.csproj;x86

@@ -1,0 +1,6 @@
+C:\Users\Five\MSSA\Lab\20200212\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
+C:\Users\Five\MSSA\Lab\20200212\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+C:\Users\Five\MSSA\Lab\20200212\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+C:\Users\Five\MSSA\Lab\20200212\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Lab\20200212\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+C:\Users\Five\MSSA\Lab\20200212\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.pdb

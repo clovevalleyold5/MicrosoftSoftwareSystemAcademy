@@ -1,0 +1,11 @@
+C:\Users\Five\MSSA\Exercise\20200309\GuessMyNumberFive\GuessMyNumberFive\bin\Debug\netcoreapp3.1\GuessMyNumberFive.exe
+C:\Users\Five\MSSA\Exercise\20200309\GuessMyNumberFive\GuessMyNumberFive\bin\Debug\netcoreapp3.1\GuessMyNumberFive.deps.json
+C:\Users\Five\MSSA\Exercise\20200309\GuessMyNumberFive\GuessMyNumberFive\bin\Debug\netcoreapp3.1\GuessMyNumberFive.runtimeconfig.json
+C:\Users\Five\MSSA\Exercise\20200309\GuessMyNumberFive\GuessMyNumberFive\bin\Debug\netcoreapp3.1\GuessMyNumberFive.runtimeconfig.dev.json
+C:\Users\Five\MSSA\Exercise\20200309\GuessMyNumberFive\GuessMyNumberFive\bin\Debug\netcoreapp3.1\GuessMyNumberFive.dll
+C:\Users\Five\MSSA\Exercise\20200309\GuessMyNumberFive\GuessMyNumberFive\bin\Debug\netcoreapp3.1\GuessMyNumberFive.pdb
+C:\Users\Five\MSSA\Exercise\20200309\GuessMyNumberFive\GuessMyNumberFive\obj\Debug\netcoreapp3.1\GuessMyNumberFive.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Exercise\20200309\GuessMyNumberFive\GuessMyNumberFive\obj\Debug\netcoreapp3.1\GuessMyNumberFive.AssemblyInfoInputs.cache
+C:\Users\Five\MSSA\Exercise\20200309\GuessMyNumberFive\GuessMyNumberFive\obj\Debug\netcoreapp3.1\GuessMyNumberFive.AssemblyInfo.cs
+C:\Users\Five\MSSA\Exercise\20200309\GuessMyNumberFive\GuessMyNumberFive\obj\Debug\netcoreapp3.1\GuessMyNumberFive.dll
+C:\Users\Five\MSSA\Exercise\20200309\GuessMyNumberFive\GuessMyNumberFive\obj\Debug\netcoreapp3.1\GuessMyNumberFive.pdb

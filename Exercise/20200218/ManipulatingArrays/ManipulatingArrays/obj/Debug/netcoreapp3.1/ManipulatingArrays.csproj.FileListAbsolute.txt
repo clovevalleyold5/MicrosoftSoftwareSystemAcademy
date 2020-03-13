@@ -1,0 +1,11 @@
+C:\Users\Five\MSSA\Exercise\20200218\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.exe
+C:\Users\Five\MSSA\Exercise\20200218\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.deps.json
+C:\Users\Five\MSSA\Exercise\20200218\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.runtimeconfig.json
+C:\Users\Five\MSSA\Exercise\20200218\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.runtimeconfig.dev.json
+C:\Users\Five\MSSA\Exercise\20200218\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.dll
+C:\Users\Five\MSSA\Exercise\20200218\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.pdb
+C:\Users\Five\MSSA\Exercise\20200218\ManipulatingArrays\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Exercise\20200218\ManipulatingArrays\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.AssemblyInfoInputs.cache
+C:\Users\Five\MSSA\Exercise\20200218\ManipulatingArrays\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.AssemblyInfo.cs
+C:\Users\Five\MSSA\Exercise\20200218\ManipulatingArrays\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.dll
+C:\Users\Five\MSSA\Exercise\20200218\ManipulatingArrays\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.pdb
