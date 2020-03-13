@@ -1,0 +1,6 @@
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Methods\Recursive Methods\obj\Debug\Recursive Methods.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Methods\Recursive Methods\bin\Debug\Recursive Methods.exe.config
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Methods\Recursive Methods\bin\Debug\Recursive Methods.exe
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Methods\Recursive Methods\bin\Debug\Recursive Methods.pdb
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Methods\Recursive Methods\obj\Debug\Recursive Methods.exe
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Methods\Recursive Methods\obj\Debug\Recursive Methods.pdb

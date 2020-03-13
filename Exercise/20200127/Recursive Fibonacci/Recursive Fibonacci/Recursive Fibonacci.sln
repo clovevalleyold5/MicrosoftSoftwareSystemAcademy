@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive Fibonacci", "Recursive Fibonacci.csproj", "{651E09EF-D520-48B7-8B0C-C1FE21663413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{651E09EF-D520-48B7-8B0C-C1FE21663413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651E09EF-D520-48B7-8B0C-C1FE21663413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651E09EF-D520-48B7-8B0C-C1FE21663413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651E09EF-D520-48B7-8B0C-C1FE21663413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEE5FA77-9256-465A-857B-F11BC30ACBD3}
+	EndGlobalSection
+EndGlobal

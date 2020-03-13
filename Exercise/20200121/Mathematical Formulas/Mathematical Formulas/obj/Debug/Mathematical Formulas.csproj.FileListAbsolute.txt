@@ -1,0 +1,18 @@
+C:\Users\Five\Documents\MSSA\Exercise\20200121\Mathematical Formulas\bin\Debug\Mathematical Formulas.exe.config
+C:\Users\Five\Documents\MSSA\Exercise\20200121\Mathematical Formulas\bin\Debug\Mathematical Formulas.exe
+C:\Users\Five\Documents\MSSA\Exercise\20200121\Mathematical Formulas\bin\Debug\Mathematical Formulas.pdb
+C:\Users\Five\Documents\MSSA\Exercise\20200121\Mathematical Formulas\obj\Debug\Mathematical Formulas.csprojAssemblyReference.cache
+C:\Users\Five\Documents\MSSA\Exercise\20200121\Mathematical Formulas\obj\Debug\Mathematical Formulas.exe
+C:\Users\Five\Documents\MSSA\Exercise\20200121\Mathematical Formulas\obj\Debug\Mathematical Formulas.pdb
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\bin\Debug\Mathematical Formulas.exe.config
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\bin\Debug\Mathematical Formulas.exe
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\bin\Debug\Mathematical Formulas.pdb
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\obj\Debug\Mathematical Formulas.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\obj\Debug\Mathematical Formulas.exe
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\obj\Debug\Mathematical Formulas.pdb
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\Mathematical Formulas\bin\Debug\Mathematical Formulas.exe.config
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\Mathematical Formulas\bin\Debug\Mathematical Formulas.exe
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\Mathematical Formulas\bin\Debug\Mathematical Formulas.pdb
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\Mathematical Formulas\obj\Debug\Mathematical Formulas.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\Mathematical Formulas\obj\Debug\Mathematical Formulas.exe
+C:\Users\Five\MSSA\Exercise\20200121\Mathematical Formulas\Mathematical Formulas\obj\Debug\Mathematical Formulas.pdb

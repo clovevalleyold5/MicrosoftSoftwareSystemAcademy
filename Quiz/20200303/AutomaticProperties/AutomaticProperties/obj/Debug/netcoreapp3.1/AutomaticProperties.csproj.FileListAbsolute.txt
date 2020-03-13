@@ -1,0 +1,11 @@
+C:\Users\Five\MSSA\Quiz\20200303\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.exe
+C:\Users\Five\MSSA\Quiz\20200303\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.deps.json
+C:\Users\Five\MSSA\Quiz\20200303\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.runtimeconfig.json
+C:\Users\Five\MSSA\Quiz\20200303\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.runtimeconfig.dev.json
+C:\Users\Five\MSSA\Quiz\20200303\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.dll
+C:\Users\Five\MSSA\Quiz\20200303\AutomaticProperties\AutomaticProperties\bin\Debug\netcoreapp3.1\AutomaticProperties.pdb
+C:\Users\Five\MSSA\Quiz\20200303\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Quiz\20200303\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.AssemblyInfoInputs.cache
+C:\Users\Five\MSSA\Quiz\20200303\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.AssemblyInfo.cs
+C:\Users\Five\MSSA\Quiz\20200303\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.dll
+C:\Users\Five\MSSA\Quiz\20200303\AutomaticProperties\AutomaticProperties\obj\Debug\netcoreapp3.1\AutomaticProperties.pdb

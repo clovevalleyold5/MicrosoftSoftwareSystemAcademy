@@ -1,0 +1,11 @@
+C:\Users\Five\MSSA\Quiz\20200213\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Five\MSSA\Quiz\20200213\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Five\MSSA\Quiz\20200213\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Five\MSSA\Quiz\20200213\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Five\MSSA\Quiz\20200213\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Five\MSSA\Quiz\20200213\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Five\MSSA\Quiz\20200213\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Quiz\20200213\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Five\MSSA\Quiz\20200213\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Five\MSSA\Quiz\20200213\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Five\MSSA\Quiz\20200213\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb

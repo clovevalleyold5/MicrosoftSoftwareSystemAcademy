@@ -1,0 +1,11 @@
+C:\Users\Five\MSSA\Quiz\20200224\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\Five\MSSA\Quiz\20200224\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\Five\MSSA\Quiz\20200224\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\Five\MSSA\Quiz\20200224\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\Five\MSSA\Quiz\20200224\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Five\MSSA\Quiz\20200224\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Five\MSSA\Quiz\20200224\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Quiz\20200224\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Five\MSSA\Quiz\20200224\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\Five\MSSA\Quiz\20200224\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Five\MSSA\Quiz\20200224\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb

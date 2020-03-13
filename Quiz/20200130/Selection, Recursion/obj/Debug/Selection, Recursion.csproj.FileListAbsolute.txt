@@ -1,0 +1,6 @@
+C:\Users\Five\MSSA\Quiz\20200130\Selection, Recursion\bin\Debug\Selection, Recursion.exe.config
+C:\Users\Five\MSSA\Quiz\20200130\Selection, Recursion\bin\Debug\Selection, Recursion.exe
+C:\Users\Five\MSSA\Quiz\20200130\Selection, Recursion\bin\Debug\Selection, Recursion.pdb
+C:\Users\Five\MSSA\Quiz\20200130\Selection, Recursion\obj\Debug\Selection, Recursion.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Quiz\20200130\Selection, Recursion\obj\Debug\Selection, Recursion.exe
+C:\Users\Five\MSSA\Quiz\20200130\Selection, Recursion\obj\Debug\Selection, Recursion.pdb

@@ -1,0 +1,6 @@
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Fibonacci\Recursive Fibonacci\obj\Debug\Recursive Fibonacci.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Fibonacci\Recursive Fibonacci\bin\Debug\Recursive Fibonacci.exe.config
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Fibonacci\Recursive Fibonacci\bin\Debug\Recursive Fibonacci.exe
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Fibonacci\Recursive Fibonacci\bin\Debug\Recursive Fibonacci.pdb
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Fibonacci\Recursive Fibonacci\obj\Debug\Recursive Fibonacci.exe
+C:\Users\Five\MSSA\Exercise\20200127\Recursive Fibonacci\Recursive Fibonacci\obj\Debug\Recursive Fibonacci.pdb

@@ -1,0 +1,6 @@
+C:\Users\Five\Documents\MSSA\Quiz\20200116\Operators and Writing to Console\bin\Debug\Operators and Writing to Console.exe.config
+C:\Users\Five\Documents\MSSA\Quiz\20200116\Operators and Writing to Console\bin\Debug\Operators and Writing to Console.exe
+C:\Users\Five\Documents\MSSA\Quiz\20200116\Operators and Writing to Console\bin\Debug\Operators and Writing to Console.pdb
+C:\Users\Five\Documents\MSSA\Quiz\20200116\Operators and Writing to Console\obj\Debug\Operators and Writing to Console.csprojAssemblyReference.cache
+C:\Users\Five\Documents\MSSA\Quiz\20200116\Operators and Writing to Console\obj\Debug\Operators and Writing to Console.exe
+C:\Users\Five\Documents\MSSA\Quiz\20200116\Operators and Writing to Console\obj\Debug\Operators and Writing to Console.pdb
