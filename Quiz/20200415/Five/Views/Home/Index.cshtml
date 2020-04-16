@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Five.Models.Person>
+@{ Layout = null; }
+<!DOCTYPE html>
+@*<html>*@
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Fireteam Oasis</title>
+</head>
+@using (Html.BeginForm("Index", "Home", FormMethod.Get))
+{
+    <b>Search By: </b>
+    @Html.RadioButton("searchby", "Name", true)<text>Name</text>
+    @Html.RadioButton("searchby", "Height")<text>Height</text>
+    @Html.RadioButton("searchby", "Weight")<text>Weight</text>
+    @Html.RadioButton("searchby", "Gender")<text>Gender</text>
+    <br />
+    <br />
+    @Html.TextBox("search")
+    <input type="submit" value="Search" />
+}
+<br />
+<body>
+    <table border="1">
+        <thead>
+            <tr><td align="center">Name</td><td align="center">Height(cm)</td><td align="center">Weight(kg)</td><td align="center">Gender</td></tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td align="center">@p.Name</td>
+                    <td align="center">@p.Height</td>
+                    <td align="center">@p.Weight</td>
+                    <td align="center">@p.Gender</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+@*</html>*@
