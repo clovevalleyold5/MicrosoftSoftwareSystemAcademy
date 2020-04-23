@@ -1,0 +1,13 @@
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\bin\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.exe
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\bin\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.deps.json
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\bin\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.runtimeconfig.json
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\bin\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.runtimeconfig.dev.json
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\bin\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.dll
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\bin\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.pdb
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\obj\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\obj\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.csproj.CoreCompileInputs.cache
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\obj\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.AssemblyInfoInputs.cache
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\obj\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.AssemblyInfo.cs
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\obj\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.dll
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\obj\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.pdb
+C:\Users\Five\MSSA\Exercise\20200427\EncryptingAndDecryptingMessages\obj\Debug\netcoreapp3.1\EncryptingAndDecryptingMessages.genruntimeconfig.cache
