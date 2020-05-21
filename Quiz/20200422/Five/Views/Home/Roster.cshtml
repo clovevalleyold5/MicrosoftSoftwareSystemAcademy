@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Five.Models.Spartan>
+
+@{ Layout = null;}
+<!DOCTYPE html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Fireteam Oasis</title>
+</head>
+@using (Html.BeginForm("Roster", "Home", FormMethod.Get))
+{
+    <b>Search By: </b>
+    @Html.RadioButton("searchby", "Name", true)<text>Name</text>
+    @Html.RadioButton("searchby", "Height")<text>Height</text>
+    @Html.RadioButton("searchby", "Weight")<text>Weight</text>
+    @Html.RadioButton("searchby", "Gender")<text>Gender</text>
+    <br />
+    <br />
+    @Html.TextBox("search")
+    <input type="submit" value="Search" />
+}
+<body>
+    <br />
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Height</th>
+                <th>Weight</th>
+                <th>Gender</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Five.Models.Spartan p in Model)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Height</td>
+                    <td>@p.Weight</td>
+                    <td>@p.Gender</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-action="Index">Home</a>
+    <a asp-action="JoinOasis">Add</a>
+</body>

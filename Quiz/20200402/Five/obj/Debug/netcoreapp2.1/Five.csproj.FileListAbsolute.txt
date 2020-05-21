@@ -22,3 +22,4 @@ C:\Users\Five\MSSA\Quiz\20200402\Five\obj\Debug\netcoreapp2.1\Five.dll
 C:\Users\Five\MSSA\Quiz\20200402\Five\obj\Debug\netcoreapp2.1\Five.pdb
 C:\Users\Five\MSSA\Quiz\20200402\Five\obj\Debug\netcoreapp2.1\Five.genruntimeconfig.cache
 C:\Users\Five\MSSA\Quiz\20200402\Five\obj\Debug\netcoreapp2.1\Five.csproj.CopyComplete
+C:\Users\Five\MSSA\Quiz\20200402\Five\obj\Debug\netcoreapp2.1\Five.csprojAssemblyReference.cache

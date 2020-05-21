@@ -1,0 +1,13 @@
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\bin\Debug\netcoreapp3.1\LINQExercise.exe
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\bin\Debug\netcoreapp3.1\LINQExercise.deps.json
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\bin\Debug\netcoreapp3.1\LINQExercise.runtimeconfig.json
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\bin\Debug\netcoreapp3.1\LINQExercise.runtimeconfig.dev.json
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\bin\Debug\netcoreapp3.1\LINQExercise.dll
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\bin\Debug\netcoreapp3.1\LINQExercise.pdb
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\obj\Debug\netcoreapp3.1\LINQExercise.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\obj\Debug\netcoreapp3.1\LINQExercise.csproj.CoreCompileInputs.cache
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\obj\Debug\netcoreapp3.1\LINQExercise.AssemblyInfoInputs.cache
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\obj\Debug\netcoreapp3.1\LINQExercise.AssemblyInfo.cs
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\obj\Debug\netcoreapp3.1\LINQExercise.dll
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\obj\Debug\netcoreapp3.1\LINQExercise.pdb
+C:\Users\Five\MSSA\Exercise\20200413\LINQExercise\obj\Debug\netcoreapp3.1\LINQExercise.genruntimeconfig.cache

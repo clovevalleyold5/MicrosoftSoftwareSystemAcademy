@@ -1,6 +1,0 @@
-C:\Users\Five\MSSA\Data\Chapter 3\DailyRate\DailyRate\obj\Debug\DailyRate.csprojAssemblyReference.cache
-C:\Users\Five\MSSA\Data\Chapter 3\DailyRate\DailyRate\bin\Debug\DailyRate.exe.config
-C:\Users\Five\MSSA\Data\Chapter 3\DailyRate\DailyRate\bin\Debug\DailyRate.exe
-C:\Users\Five\MSSA\Data\Chapter 3\DailyRate\DailyRate\bin\Debug\DailyRate.pdb
-C:\Users\Five\MSSA\Data\Chapter 3\DailyRate\DailyRate\obj\Debug\DailyRate.exe
-C:\Users\Five\MSSA\Data\Chapter 3\DailyRate\DailyRate\obj\Debug\DailyRate.pdb

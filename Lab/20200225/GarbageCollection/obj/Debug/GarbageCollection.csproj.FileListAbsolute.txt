@@ -1,6 +1,0 @@
-C:\Users\Five\MSSA\Lab\20200225\GarbageCollection\bin\Debug\GarbageCollection.exe.config
-C:\Users\Five\MSSA\Lab\20200225\GarbageCollection\bin\Debug\GarbageCollection.exe
-C:\Users\Five\MSSA\Lab\20200225\GarbageCollection\bin\Debug\GarbageCollection.pdb
-C:\Users\Five\MSSA\Lab\20200225\GarbageCollection\obj\Debug\GarbageCollection.csprojAssemblyReference.cache
-C:\Users\Five\MSSA\Lab\20200225\GarbageCollection\obj\Debug\GarbageCollection.exe
-C:\Users\Five\MSSA\Lab\20200225\GarbageCollection\obj\Debug\GarbageCollection.pdb

@@ -1,6 +1,0 @@
-C:\Users\Five\MSSA\Lab\20200302\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
-C:\Users\Five\MSSA\Lab\20200302\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe
-C:\Users\Five\MSSA\Lab\20200302\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
-C:\Users\Five\MSSA\Lab\20200302\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csprojAssemblyReference.cache
-C:\Users\Five\MSSA\Lab\20200302\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.exe
-C:\Users\Five\MSSA\Lab\20200302\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.pdb

@@ -1,6 +1,0 @@
-C:\Users\Five\MSSA\Lab\TextHello\bin\Debug\TextHello.exe.config
-C:\Users\Five\MSSA\Lab\TextHello\bin\Debug\TextHello.exe
-C:\Users\Five\MSSA\Lab\TextHello\bin\Debug\TextHello.pdb
-C:\Users\Five\MSSA\Lab\TextHello\obj\Debug\TextHello.csprojAssemblyReference.cache
-C:\Users\Five\MSSA\Lab\TextHello\obj\Debug\TextHello.exe
-C:\Users\Five\MSSA\Lab\TextHello\obj\Debug\TextHello.pdb

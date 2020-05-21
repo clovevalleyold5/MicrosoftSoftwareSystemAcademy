@@ -1,9 +1,0 @@
-C:\Users\Five\MSSA\Lab\20200309\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe.config
-C:\Users\Five\MSSA\Lab\20200309\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe
-C:\Users\Five\MSSA\Lab\20200309\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
-C:\Users\Five\MSSA\Lab\20200309\BinaryTreeTest\bin\Debug\BinaryTree.dll
-C:\Users\Five\MSSA\Lab\20200309\BinaryTreeTest\bin\Debug\BinaryTree.pdb
-C:\Users\Five\MSSA\Lab\20200309\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojAssemblyReference.cache
-C:\Users\Five\MSSA\Lab\20200309\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CopyComplete
-C:\Users\Five\MSSA\Lab\20200309\BinaryTreeTest\obj\Debug\BinaryTreeTest.exe
-C:\Users\Five\MSSA\Lab\20200309\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb

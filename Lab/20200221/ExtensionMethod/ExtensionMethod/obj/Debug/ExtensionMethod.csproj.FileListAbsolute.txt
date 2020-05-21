@@ -1,6 +1,0 @@
-C:\Users\Five\MSSA\Lab\20200221\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
-C:\Users\Five\MSSA\Lab\20200221\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
-C:\Users\Five\MSSA\Lab\20200221\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
-C:\Users\Five\MSSA\Lab\20200221\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csprojAssemblyReference.cache
-C:\Users\Five\MSSA\Lab\20200221\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
-C:\Users\Five\MSSA\Lab\20200221\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb

@@ -1,6 +1,0 @@
-C:\Users\Five\MSSA\Lab\20200221\Vehicles\Vehicles\bin\Debug\Vehicles.exe.config
-C:\Users\Five\MSSA\Lab\20200221\Vehicles\Vehicles\bin\Debug\Vehicles.exe
-C:\Users\Five\MSSA\Lab\20200221\Vehicles\Vehicles\bin\Debug\Vehicles.pdb
-C:\Users\Five\MSSA\Lab\20200221\Vehicles\Vehicles\obj\Debug\Vehicles.csprojAssemblyReference.cache
-C:\Users\Five\MSSA\Lab\20200221\Vehicles\Vehicles\obj\Debug\Vehicles.exe
-C:\Users\Five\MSSA\Lab\20200221\Vehicles\Vehicles\obj\Debug\Vehicles.pdb
