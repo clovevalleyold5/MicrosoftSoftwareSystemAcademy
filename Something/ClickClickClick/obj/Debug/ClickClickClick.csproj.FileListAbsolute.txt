@@ -1,0 +1,15 @@
+C:\Users\Five\MSSA\Something\ClickClickClick\bin\Debug\ClickClickClick.exe.config
+C:\Users\Five\MSSA\Something\ClickClickClick\bin\Debug\ClickClickClick.exe.manifest
+C:\Users\Five\MSSA\Something\ClickClickClick\bin\Debug\ClickClickClick.exe
+C:\Users\Five\MSSA\Something\ClickClickClick\bin\Debug\ClickClickClick.pdb
+C:\Users\Five\MSSA\Something\ClickClickClick\bin\Debug\AutoItX3.dll
+C:\Users\Five\MSSA\Something\ClickClickClick\obj\Debug\ClickClickClick.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Something\ClickClickClick\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Five\MSSA\Something\ClickClickClick\obj\Debug\ClickClickClick.csproj.ResolveComReference.cache
+C:\Users\Five\MSSA\Something\ClickClickClick\obj\Debug\ClickClickClick.刷刷刷.resources
+C:\Users\Five\MSSA\Something\ClickClickClick\obj\Debug\ClickClickClick.Properties.Resources.resources
+C:\Users\Five\MSSA\Something\ClickClickClick\obj\Debug\ClickClickClick.csproj.GenerateResource.cache
+C:\Users\Five\MSSA\Something\ClickClickClick\obj\Debug\ClickClickClick.csproj.CoreCompileInputs.cache
+C:\Users\Five\MSSA\Something\ClickClickClick\obj\Debug\ClickClickClick.exe.manifest
+C:\Users\Five\MSSA\Something\ClickClickClick\obj\Debug\ClickClickClick.exe
+C:\Users\Five\MSSA\Something\ClickClickClick\obj\Debug\ClickClickClick.pdb

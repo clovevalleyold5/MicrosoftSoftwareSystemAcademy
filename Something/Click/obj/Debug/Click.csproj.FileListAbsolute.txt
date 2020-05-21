@@ -1,0 +1,15 @@
+C:\Users\Five\MSSA\Something\Click\bin\Debug\Click.exe.config
+C:\Users\Five\MSSA\Something\Click\bin\Debug\Click.exe.manifest
+C:\Users\Five\MSSA\Something\Click\bin\Debug\Click.exe
+C:\Users\Five\MSSA\Something\Click\bin\Debug\Click.pdb
+C:\Users\Five\MSSA\Something\Click\bin\Debug\AutoItX3.dll
+C:\Users\Five\MSSA\Something\Click\obj\Debug\Click.csprojAssemblyReference.cache
+C:\Users\Five\MSSA\Something\Click\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Five\MSSA\Something\Click\obj\Debug\Click.csproj.ResolveComReference.cache
+C:\Users\Five\MSSA\Something\Click\obj\Debug\Click.Properties.Resources.resources
+C:\Users\Five\MSSA\Something\Click\obj\Debug\Click.csproj.GenerateResource.cache
+C:\Users\Five\MSSA\Something\Click\obj\Debug\Click.csproj.CoreCompileInputs.cache
+C:\Users\Five\MSSA\Something\Click\obj\Debug\Click.exe.manifest
+C:\Users\Five\MSSA\Something\Click\obj\Debug\Click.exe
+C:\Users\Five\MSSA\Something\Click\obj\Debug\Click.pdb
+C:\Users\Five\MSSA\Something\Click\obj\Debug\Click.刷.resources
